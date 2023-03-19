@@ -1,0 +1,2 @@
+# HypotheticalManagementSoftwareForNoSpecificRegisteredAssociation
+This is a hypothetical Management-Software for no specific registered association.
